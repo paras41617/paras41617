@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **DeFi Project**
 
-- 🌱 I’m currently learning **Vue.js , Flask**
+- 🌱 I’m currently learning **Vue.js , Flask , Quasar , DeFi**
 
-- 💬 Ask me about **Blockchain , Web3 , Web , Full Stack**
+- 💬 Ask me about **Blockchain , Web3 , Django , React.js , Backend , Full Stack**
 
 - 📫 How to reach me **paras41617@gmail.com**
 
