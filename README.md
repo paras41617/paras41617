@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paras Gupta</h1>
 <h3 align="center">A passionate Full Stack/Blockchain developer and Web3 Enthusiast from India</h3>
 <br>
-<img align="right" width="300" alt="coding" src="https://user-images.githubusercontent.com/54182371/208286450-60b5a51d-05bf-4b55-ab64-e52ebd8ca73d.svg" >
+<img align="right" width="200" alt="coding" src="https://user-images.githubusercontent.com/54182371/208286450-60b5a51d-05bf-4b55-ab64-e52ebd8ca73d.svg" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paras41617" alt="paras41617" /></a> </p>
 
