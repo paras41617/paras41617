@@ -1,3 +1,5 @@
+<img align="center" width="1000" alt="Profile" src="https://user-images.githubusercontent.com/54182371/208287227-122eda51-67bd-4a35-9055-df5ea45d6fdf.jpg">
+
 <h1 align="center">Hi 👋, I'm Paras Gupta</h1>
 <h3 align="center">A passionate Full Stack/Blockchain developer and Web3 Enthusiast from India</h3>
 <br>
