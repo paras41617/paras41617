@@ -35,4 +35,6 @@
   </div>
   <p>&nbsp;&nbsp;<img width="420" align="right" src="https://github-readme-stats.vercel.app/api?username=paras41617&show_icons=true&locale=en" alt="paras41617" /></p>
 </div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paras41617&" alt="paras41617" /></p>
+&nbsp;
+<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="350" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paras41617&" alt="paras41617" /></p>
