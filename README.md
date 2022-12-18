@@ -33,6 +33,6 @@
   </div>
   <div>
   </div>
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=paras41617&show_icons=true&locale=en" alt="paras41617" /></p>
+  <p>&nbsp;<img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=paras41617&show_icons=true&locale=en" alt="paras41617" /></p>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paras41617&" alt="paras41617" /></p>
